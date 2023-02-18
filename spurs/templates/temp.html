@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Members</h1>
+
+    <ul>
+      {% for x in myMatches %}
+      <li>{{ x.team }} {{ x.ventue }} {{x.date}}</li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>
