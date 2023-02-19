@@ -58,6 +58,7 @@ CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
        'http://localhost:5173',
+       'https://graceful-biscochitos-03b3d5.netlify.app/',
 
 )
 
