@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/3f61ed4f-be1c-4252-b320-31f83eb6c41d/AppServices/subscriptions/3f61ed4f-be1c-4252-b320-31f83eb6c41d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/spursAPI",
+  "appService.deploySubpath": "scraperweb"
+}

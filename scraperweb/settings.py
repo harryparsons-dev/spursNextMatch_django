@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-jcr91@8azq!9mr1$&l8j%%*r_&fmfe)yow3s0bd%z^*4ip^715'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1"]
+ALLOWED_HOSTS = ["https://spursapi.azurewebsites.net"]
 
 
 # Application definition
