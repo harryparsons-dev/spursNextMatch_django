@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jcr91@8azq!9mr1$&l8j%%*r_&fmfe)yow3s0bd%z^*4ip^715
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://spursapi.azurewebsites.net"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
